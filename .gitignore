@@ -16,7 +16,6 @@ docs/
 .env
 
 .history/
-lib/
 node_modules/
 
 *.lock
